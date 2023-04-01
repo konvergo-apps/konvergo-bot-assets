@@ -1,2 +1,2 @@
-# monkey-bot-assets
-// Assets for Konvergo Monkey Bot
+# konvergo-bot-assets
+// Assets for Konvergo Bot
